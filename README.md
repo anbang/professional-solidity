@@ -1,6 +1,6 @@
 # Solidity 高级程序设计
 
-**前置说明**：本教程的面向群体不是零基础 solidity 小白，不适合第一次接触Solidity的初学者；你需要掌握 solidity 语言的基本用法才能更好的继续阅读和理解，默认读者已经掌握了 Solidity 语言的基本用法，本教程供查漏补缺，深入学习使用。
+**前置说明**：本教程的面向群体不是零基础 solidity 小白，不适合第一次接触 Solidity 的初学者；你需要掌握 solidity 语言的基本用法才能更好的继续阅读和理解，默认读者已经掌握了 Solidity 语言的基本用法，本教程供查漏补缺，深入学习使用。
 
 **运行环境**：为了方便演示，本教程内所有的演示操作，均在 [Remix](https://remix.ethereum.org/) 中进行操作。学习的时候建议使用 Solidity 最新版本进行编码，最新版本可以在官方博客 [blog.soliditylang.org](https://blog.soliditylang.org/) 查看。
 
@@ -9,13 +9,13 @@
 ## 社交媒体信息
 
 - 欢迎关注我的推特：[@anbang_account](https://twitter.com/anbang_account)
-- 合约交流群：[Discord Solidity智能合约交流](https://discord.gg/AZmEtpmAjx)
+- 合约交流群：[Discord Solidity 智能合约交流](https://discord.gg/AZmEtpmAjx)
 - Youtube: [Anbang 的 Youtube 频道](https://www.youtube.com/c/anbang)
 - Bilibili: [Anbang 的 Bilibili 频道](https://space.bilibili.com/59312814)
 
 ## 在线阅读文档
 
-
+- <a target="_blank" rel="noopener noreferrer" href="https://professional-solidity.readthedocs.io/zh_CN/latest/">Read The Docs</a>
 
 ## 本地运行文档
 
