@@ -9,7 +9,7 @@
 ## 社交媒体信息
 
 - 欢迎关注我的推特：[@anbang_account](https://twitter.com/anbang_account)
-- 合约交流群：[Discord Solidity 智能合约交流](https://discord.gg/AZmEtpmAjx)
+- 合约交流群：[Solidity 智能合约交流群](https://discord.gg/AZmEtpmAjx) （Discord）
 - Youtube: [Anbang 的 Youtube 频道](https://www.youtube.com/c/anbang)
 - Bilibili: [Anbang 的 Bilibili 频道](https://space.bilibili.com/59312814)
 - Github: [Anbang 的 Github](https://github.com/anbang)
