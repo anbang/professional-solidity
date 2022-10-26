@@ -6,17 +6,18 @@
 
 **额外说明**：本教程的所有知识点都不会拿别的语言进行类比。很多写作者写 solidity 教程的时候，喜欢在介绍某个知识点时，拿自己之前熟悉的语言和 solidity 类比介绍（比如 C++，Python，Java，Javascript 等），初心是让读者可以更容易理解；但是事与愿违，很多时候读者可能并不了解写作者熟悉的那门语言，导致不举例还好，对比举例更迷糊了。学习编程是一件很严肃的事情，本教程尽量避免无聊的调侃，类比和啰嗦的废话。
 
+## 在线阅读
+
+- 文字版:
+  - <a target="_blank" rel="noopener noreferrer" href="https://professional-solidity.readthedocs.io/zh_CN/latest/">在线文档阅读: Read The Docs</a>
+- 视频版: 
+  - [在线视频观看: Youtube](https://www.youtube.com/watch?v=ao5nkAgx7kU&list=PLdXBX6Eqe4Net43OWIZychHW0n6CX_8Ih)
+  - [在线视频观看: Bilibili](https://www.bilibili.com/video/BV1HR4y197Ag)
+
 ## 社交媒体信息
 
-- 欢迎关注我的推特：[@anbang_account](https://twitter.com/anbang_account)
-- 合约交流群：[Solidity 智能合约交流群](https://discord.gg/AZmEtpmAjx) （Discord）
-- Youtube: [Anbang 的 Youtube 频道](https://www.youtube.com/c/anbang)
-- Bilibili: [Anbang 的 Bilibili 频道](https://space.bilibili.com/59312814)
-- Github: [Anbang 的 Github](https://github.com/anbang)
-
-## 在线阅读文档
-
-- <a target="_blank" rel="noopener noreferrer" href="https://professional-solidity.readthedocs.io/zh_CN/latest/">Read The Docs</a>
+- 关注我的推特：[@anbang_account](https://twitter.com/anbang_account)
+- 加入合约交流群：[Solidity 智能合约交流群](https://discord.gg/AZmEtpmAjx) （Discord）
 
 ## 本地运行文档
 
