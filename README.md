@@ -6,10 +6,24 @@
 
 **额外说明**：本教程的所有知识点都不会拿别的语言进行类比。很多写作者写 solidity 教程的时候，喜欢在介绍某个知识点时，拿自己之前熟悉的语言和 solidity 类比介绍（比如 C++，Python，Java，Javascript 等），初心是让读者可以更容易理解；但是事与愿违，很多时候读者可能并不了解写作者熟悉的那门语言，导致不举例还好，对比举例更迷糊了。学习编程是一件很严肃的事情，本教程尽量避免无聊的调侃，类比和啰嗦的废话。
 
+## 感想
+
+这套《Solidity 高级程序设计》肯定是Solidity中文区 TOP3 级别的教程，争取做中文区TOP1教程，为了让更多人参与和了解，我做了如下资料的配套。
+
+- Github 源文件：开放，让读者最低成本的参与优化和修复
+- 在线文档方便随时阅读
+  - 一套是托管在 Read The Doc上。（方便大陆地区以外的地方浏览）
+  - 一套是放我的个人网站 阿西河上。（国内可以直接浏览，方便大陆地区浏览）
+- PDF文件：方便本地断网浏览
+- 实体书籍：方便有读书习惯的人阅读。
+
+所有的文档和源码全部开放，所有的配套视频也全部免费开放，并配有配套的PDF文件，PDF文件也是免费的。如果你发现有哪里可以优化的，可以直接在 Github 仓库上提交你的改动，如果你想参与教程的修改和优化，改Github源文件是最低门槛的方式。
+
 ## 在线阅读
 
 - 文字版:
   - <a target="_blank" rel="noopener noreferrer" href="https://professional-solidity.readthedocs.io/zh_CN/latest/">在线文档阅读: Read The Docs</a>
+  - <a target="_blank" rel="noopener noreferrer" href="https://www.axihe.com/solidity/professional-solidity.html">在线文档阅读: 阿西河网站</a>
 - 视频版: 
   - [在线视频观看: Youtube](https://www.youtube.com/watch?v=ao5nkAgx7kU&list=PLdXBX6Eqe4Net43OWIZychHW0n6CX_8Ih)
   - [在线视频观看: Bilibili](https://www.bilibili.com/video/BV1HR4y197Ag)
