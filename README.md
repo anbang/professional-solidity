@@ -22,7 +22,7 @@
 ## 在线阅读
 
 - **文字版在线阅读**:
-  - <a target="_blank" rel="noopener noreferrer" href="https://www.axihe.com/solidity/professional-solidity.md">墙内版: 阿西河网站</a>
+  - <a target="_blank" rel="noopener noreferrer" href="https://www.axihe.com/solidity/professional-solidity.html">墙内版: 阿西河网站</a>
   - <a target="_blank" rel="noopener noreferrer" href="https://professional-solidity.readthedocs.io/zh_CN/latest/">墙外版: Read The Docs</a>
 - **视频版**:
   - [在线视频观看: Youtube](https://www.youtube.com/watch?v=ao5nkAgx7kU&list=PLdXBX6Eqe4Net43OWIZychHW0n6CX_8Ih)
@@ -36,6 +36,22 @@
 
 - 推特：[@anbang_account](https://twitter.com/anbang_account) （欢迎关注）
 - 交流群：[Solidity 智能合约交流群](https://discord.gg/AZmEtpmAjx) （Discord）
+
+## TODO
+
+下面是给这本书做的 TODO List
+
+1. ✅ 最迟不晚于 2022 年 11 月提供前 3 章的内容用来做市场测试，如果有必要的话，提供配套的视频版
+2. ✅ 最迟不晚于 2023 年 1 月提供 V0.0.1 版本，并在 V0.0.1 版本完成初步架构
+3. ❌ 最迟不晚于 2023 年 3 月提供 V0.0.2 版本，并在 V0.0.2 开始提供完整的 PDF 版电子书籍
+4. ❌ 最迟不晚于 2023 年 6 月提供 V0.0.3 版本，并在 V0.0.3 开始将 PDF 电子书籍印刷 30 本供自己和身边的朋友阅读和矫正。
+5. ❌ 最迟不晚于 2023 年 9 月提供 V0.0.4 版本，并在 V0.0.4 印刷 100 本免费提供给网络上的陌生人阅读和矫正。
+6. ❌ 如果一切顺利的话，联系出版社给印刷出来。
+7. ❌ 重新录制完整的视频配套教程
+
+7 个步骤，目前完成了 2 个。一切都按照计划进行中。
+
+最开始写了前面 3 章内容，并在 2022 年 10 月下旬录制了配套视频教程，并分享在 Bilibili 上，有赞的有吐槽的；但是后台数据上来看这类资料在 Solidity 这个垂直语言内还是很受欢迎的。目前在 B 站搜索常见的 Solidity 关键字，我分享的视频教程几乎都是系统默认推荐的第 1 名。总播放量也在 12 月份进了前 10。并在 2022 年 12 月下旬完成了 V0.0.1 版本内容，初步完成了这本书的架构。
 
 ## 目录
 
