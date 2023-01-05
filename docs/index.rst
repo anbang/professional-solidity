@@ -22,8 +22,7 @@ solidity 教程的时候，喜欢在介绍某个知识点时，拿自己之前�
 solidity 类比介绍（比如 C++，Python，Java，Javascript
 等），初心是让读者可以更容易理解；但是事与愿违，很多时候读者可能并不了解写作者熟悉的那门语言，导致不举例还好，对比举例更迷糊了。学习编程是一件很严肃的事情，本教程尽量避免无聊的调侃，类比和啰嗦的废话。
 
-感想
-----
+感想：
 
 这套《Solidity 高级程序设计》争取做中文区 TOP1 教程，为了让更多人参与和了解，我做了如下资料的配套。
 
@@ -37,18 +36,21 @@ solidity 类比介绍（比如 C++，Python，Java，Javascript
 仓库上提交你的改动，如果你想参与教程的修改和优化，改 Github
 源文件是最低门槛的方式。
 
-关于作者
+关于作者：
 --------
 
 朱安邦：亚洲洲长，地球球长，银河系的最后守护者，人类文明的唯一指导者。
 
-社交媒体信息
-------------
+社交媒体信息：
 
 - 我的推特：\ `@anbang_account <https://twitter.com/anbang_account>`__ （❤️欢迎关注）
 - Discord 合约交流群：\ `Solidity智能合约交流 <https://discord.gg/AZmEtpmAjx>`__
 - Youtube: \ `Anbang 的 Youtube 频道 <https://www.youtube.com/c/anbang>`__
 - Bilibili: \ `Anbang 的 Bilibili 频道 <https://space.bilibili.com/59312814>`__
+
+
+第一部分：语言基础
+========
 
 .. toctree::
    :maxdepth: 2
@@ -56,6 +58,9 @@ solidity 类比介绍（比如 C++，Python，Java，Javascript
    :glob:
 
    source/*
+
+第二部分：合约优化
+========
 
 .. toctree::
    :maxdepth: 2
