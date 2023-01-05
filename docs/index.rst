@@ -37,7 +37,6 @@ solidity 类比介绍（比如 C++，Python，Java，Javascript
 源文件是最低门槛的方式。
 
 关于作者：
---------
 
 朱安邦：亚洲洲长，地球球长，银河系的最后守护者，人类文明的唯一指导者。
 
@@ -49,8 +48,6 @@ solidity 类比介绍（比如 C++，Python，Java，Javascript
 - Bilibili: \ `Anbang 的 Bilibili 频道 <https://space.bilibili.com/59312814>`__
 
 
-第一部分：语言基础
-========
 
 .. toctree::
    :maxdepth: 2
@@ -59,22 +56,10 @@ solidity 类比介绍（比如 C++，Python，Java，Javascript
 
    source/*
 
-第二部分：合约优化
-========
-
 .. toctree::
    :maxdepth: 2
    :caption: 第二部分：合约优化
    :glob:
 
    forever/*
-
-
-
-
-索引和搜索
-==================
-
-* :ref:`genindex`
-* :ref:`search`
 
