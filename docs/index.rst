@@ -58,7 +58,7 @@ solidity 类比介绍（比如 C++，Python，Java，Javascript
 
 .. toctree::
    :maxdepth: 2
-   :caption: 第二部分：合约优化
+   :caption: 合约优化
    :glob:
 
    forever/*
