@@ -51,7 +51,7 @@ solidity 类比介绍（比如 C++，Python，Java，Javascript
 
 .. toctree::
    :maxdepth: 2
-   :caption: 第一部分：语言基础
+   :caption: 目录
    :glob:
 
    source/*
