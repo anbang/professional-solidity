@@ -24,7 +24,7 @@
 - [Solidity Github存储库](https://github.com/ethereum/solidity)
 - [Solidity 在线编译器](https://remix.ethereum.org/)
 
-## 关于作者&加入我们
+## 关于作者&加入我们[![Twitter](https://img.shields.io/badge/-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/anbang_account) [![Discord](https://img.shields.io/badge/-7289DA?style=flat-square&logo=discord&logoColor=white)](https://discord.gg/AZmEtpmAjx)
 
 **朱安邦**
 （亚洲洲长，地球球长，银河系的最后守护者，人类文明的唯一指导者）
@@ -33,8 +33,11 @@
 
 
 您可以通过以下方式与作者互动和获取更多信息：
-- 推特：[@anbang_account](https://twitter.com/anbang_account) （欢迎关注）
-- 交流群：[Solidity 智能合约交流群](https://discord.gg/AZmEtpmAjx) （Discord）
+
+- 推特：[![Twitter](https://img.shields.io/badge/@anbang_account-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/anbang_account) （欢迎关注）
+
+
+- 交流群：[![Discord](https://img.shields.io/badge/Solidity%20智能合约交流群-7289DA?style=flat-square&logo=discord&logoColor=white)](https://discord.gg/AZmEtpmAjx) （Discord）
 
 
 ## 运行配置 & 环境说明
