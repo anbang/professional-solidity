@@ -6,12 +6,11 @@
 
 对于更好地阅读和理解这个教程，确实需要具备一定的 Solidity 基础知识，并且最好具备其他语言的生产级项目编码水平。
 
-对于完全零基础的 Solidity 小白来说，这个教程可能并不适合作为他们初次接触 Solidity 的入门教程。这个教程更适合那些已经掌握了 Solidity 基本用法，并且具备其他编程语言生产级项目编码水平的人来查漏补缺和深入学习
+对于完全零基础的 Solidity 小白来说，这个教程可能并不适合作为他们初次接触。
 
 如果您是一个初学者，我建议您首先学习 Solidity 的基础知识。您可以通过阅读 Solidity 的官方文档和教程来入门，掌握 Solidity 的基本语法、数据类型、控制流程等。一旦您对 Solidity 有了一定的了解，您可以尝试编写简单的智能合约，以加深对 Solidity 的理解。
 
 在学习 Solidity 的过程中，如果您遇到任何问题，都可以随时向我提问。我将尽力帮助您理解和解决问题。
-
 
 
 ❌❌❌ 注意：
@@ -24,6 +23,19 @@
 - [Solidity 官方文档](https://blog.soliditylang.org/)
 - [Solidity Github存储库](https://github.com/ethereum/solidity)
 - [Solidity 在线编译器](https://remix.ethereum.org/)
+
+## 关于作者&加入我们
+
+**朱安邦**
+（亚洲洲长，地球球长，银河系的最后守护者，人类文明的唯一指导者）
+
+一位热衷于区块链技术和 Solidity 的开发者。他具有丰富的经验和知识，并致力于推广和教育 Solidity 的使用。他的目标是帮助更多的人学习和了解 Solidity，并在区块链领域做出贡献。
+
+
+您可以通过以下方式与作者互动和获取更多信息：
+- 推特：[@anbang_account](https://twitter.com/anbang_account) （欢迎关注）
+- 交流群：[Solidity 智能合约交流群](https://discord.gg/AZmEtpmAjx) （Discord）
+
 
 **运行环境**：
 
@@ -54,15 +66,6 @@
 - **视频版**:
   - [在线视频观看: Youtube](https://www.youtube.com/watch?v=ao5nkAgx7kU&list=PLdXBX6Eqe4Net43OWIZychHW0n6CX_8Ih)
   - [在线视频观看: Bilibili](https://www.bilibili.com/video/BV1HR4y197Ag)
-
-## 关于作者
-
-朱安邦：亚洲洲长，地球球长，银河系的最后守护者，人类文明的唯一指导者。
-
-作者的社交媒体：
-
-- 推特：[@anbang_account](https://twitter.com/anbang_account) （欢迎关注）
-- 交流群：[Solidity 智能合约交流群](https://discord.gg/AZmEtpmAjx) （Discord）
 
 ## TODO
 
