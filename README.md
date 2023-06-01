@@ -34,9 +34,8 @@
 
 您可以通过以下方式与作者互动和获取更多信息：
 
-- 推特：[![Twitter](https://img.shields.io/badge/@anbang_account-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/anbang_account) （欢迎关注）
-
-
+- 推特：
+[![Twitter](https://img.shields.io/badge/@anbang_account-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/anbang_account) （欢迎关注）
 - 交流群：[![Discord](https://img.shields.io/badge/Solidity%20智能合约交流群-7289DA?style=flat-square&logo=discord&logoColor=white)](https://discord.gg/AZmEtpmAjx) （Discord）
 
 
