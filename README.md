@@ -37,6 +37,7 @@
 - 交流群：[Solidity 智能合约交流群](https://discord.gg/AZmEtpmAjx) （Discord）
 
 
+## 运行配置 & 环境说明
 **运行环境**：
 
 为了方便演示，本教程内所有的操作，均在 [Solidity 在线编译器 Remix](https://remix.ethereum.org/) 中进行，它可以直观快捷的做合约部署+测试+生成界面。
@@ -56,7 +57,13 @@
 - PDF 文件：方便本地断网浏览
 - 实体书籍：方便有读书习惯的人阅读。
 
-所有的文档和源码全部开放，所有的配套视频也全部免费开放，并配有配套的 PDF 文件，PDF 文件也是免费的。如果你发现有哪里可以优化的，可以直接在 Github 仓库上提交你的改动，如果你想参与教程的修改和优化，改 Github 源文件是最低门槛的方式。
+
+如果你喜欢这个项目，请给它点一个[![GitHub stars](https://img.shields.io/github/stars/anbang/professional-solidity.svg?style=social)](https://github.com/你的GitHub用户名/你的项目仓库名)（GitHub上的点赞按钮）。
+
+## 贡献
+
+我们欢迎并鼓励您对所有文档、源代码以及相关视频的开放与免费访问。此外，我们还提供了配套的PDF文件，同样也是免费提供的。我们欢迎您在GitHub仓库上提交您的改动，以帮助我们不断优化内容。如果您对参与教程的修改和改进感兴趣，修改GitHub源文件是最简单的方式。
+
 
 ## 在线阅读
 
