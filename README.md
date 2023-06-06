@@ -1,23 +1,14 @@
 # Solidity 高级程序设计
 
-**前置说明**：
+❌❌❌
+注意：
 
-这个教程的目标读者是那些已经熟悉 Solidity 语言基本用法的人，他们可能已经编写过一些简单的智能合约，并对 Solidity 的核心概念和语法有一定的了解。如果您已经掌握了 Solidity 的基本用法，这个教程可以帮助您填补一些知识的空白，并深入学习更高级的概念和技术。
+这这个教程的目标读者是已经熟悉 Solidity 语言基本用法的人。如果您已经掌握了 Solidity 的基本用法，这个教程可以帮助您填补知识的空白，并深入学习更高级的概念和技术。
 
-对于更好地阅读和理解这个教程，确实需要具备一定的 Solidity 基础知识，并且最好具备其他语言的生产级项目编码水平。
-
-对于完全零基础的 Solidity 小白来说，这个教程可能并不适合作为他们初次接触。
-
-如果您是一个初学者，我建议您首先学习 Solidity 的基础知识。您可以通过阅读 Solidity 的官方文档和教程来入门，掌握 Solidity 的基本语法、数据类型、控制流程等。一旦您对 Solidity 有了一定的了解，您可以尝试编写简单的智能合约，以加深对 Solidity 的理解。
+对于完全零基础的 Solidity 小白来说，这个教程可能并不适合作为他们初次接触。 如果您是一个初学者，我建议您首先学习 Solidity 的基础知识。您可以通过阅读 Solidity 的官方文档和教程来入门，掌握 Solidity 的基本语法、数据类型、控制流程等。
 
 在学习 Solidity 的过程中，如果您遇到任何问题，都可以随时向我提问。我将尽力帮助您理解和解决问题。
-
-
-❌❌❌ 注意：
-
-这个前置条件非常重要，对于没有编程基础的人来说，阅读这个教程可能会非常困难。如果您没有掌握 Solidity 的基本用法或其他编程语言的经验，确实建议您先学习编程的基础知识和其他语言，然后再尝试深入学习 Solidity。
-
-如果您在学习 Solidity 的过程中遇到困难，可以随时向我提问。我会尽力为您提供帮助和解答。同时，使用搜索引擎和参考其他教程和资源也是一个很好的学习策略，因为这样可以获取更多的知识和解决问题的方法。
+同时，使用搜索引擎和参考其他教程和资源也是一个很好的学习策略，因为这样可以获取更多的知识和解决问题的方法。
 
 另外，关于Solidity学习资源的地址，一下是一些常用的学习资源，供大家参考：
 - [Solidity 官方文档](https://blog.soliditylang.org/)
@@ -62,12 +53,6 @@
 
 如果你喜欢这个项目，请给它点一个[![GitHub stars](https://img.shields.io/github/stars/anbang/professional-solidity.svg?style=social)](https://github.com/你的GitHub用户名/你的项目仓库名)（GitHub上的点赞按钮）。
 
-## 贡献
-
-我们欢迎并鼓励您对所有文档、源代码以及相关视频的开放与免费访问。此外，我们还提供了配套的PDF文件，同样也是免费提供的。我们欢迎您在GitHub仓库上提交您的改动，以帮助我们不断优化内容。如果您对参与教程的修改和改进感兴趣，修改GitHub源文件是最简单的方式。
-
-
-## 在线阅读
 
 - **文字版在线阅读**:
   - <a target="_blank" rel="noopener noreferrer" href="https://www.axihe.com/solidity/professional-solidity.html">墙内版: 阿西河网站</a>
@@ -76,10 +61,42 @@
   - [在线视频观看: Youtube](https://www.youtube.com/watch?v=ao5nkAgx7kU&list=PLdXBX6Eqe4Net43OWIZychHW0n6CX_8Ih)
   - [在线视频观看: Bilibili](https://www.bilibili.com/video/BV1HR4y197Ag)
 
-## TODO
 
-下面是给这本书做的 TODO List
+## 贡献
 
+我们欢迎并鼓励您对所有文档、源代码以及相关视频的开放与免费访问。此外，我们还提供了配套的PDF文件，同样也是免费提供的。我们欢迎您在GitHub仓库上提交您的改动，以帮助我们不断优化内容。如果您对参与教程的修改和改进感兴趣，修改GitHub源文件是最简单的方式。
+
+## 本地运行文档
+
+克隆本仓库到你的电脑
+
+```
+git clone git@github.com:anbang/professional-solidity.git
+```
+
+**安装 Sphinx**：
+
+```
+yum -y install git make python3 python3-pip
+pip3 install sphinx
+pip3 install sphinx-autobuild
+pip3 install sphinx_rtd_theme
+pip3 install recommonmark
+pip3 install sphinx_markdown_tables
+```
+
+**本地运行**：根目录执行如下命令
+
+```
+# 第一种
+sphinx-autobuild docs build/html
+
+# 第二种
+./start.sh
+```
+
+
+## TODO List
 1. ✅ 最迟不晚于 2022 年 11 月提供前 3 章的内容用来做市场测试，如果有必要的话，提供配套的视频版
 2. ✅ 最迟不晚于 2023 年 1 月提供 V0.0.1 版本，并在 V0.0.1 版本完成初步架构
 3. ❌ 最迟不晚于 2023 年 3 月提供 V0.0.2 版本，并在 V0.0.2 开始提供完整的 PDF 版电子书籍
@@ -88,9 +105,9 @@
 6. ❌ 如果一切顺利的话，联系出版社给印刷出来。
 7. ❌ 重新录制完整的视频配套教程
 
-7 个步骤，目前完成了 2 个。一切都按照计划进行中。
+目前已完成 2 个步骤，进度符合计划。
 
-最开始写了前面 3 章内容，并在 2022 年 10 月下旬录制了配套视频教程，并分享在 Bilibili 上，有赞的有吐槽的；但是后台数据上来看这类资料在 Solidity 这个垂直语言内还是很受欢迎的。目前在 B 站搜索常见的 Solidity 关键字，我分享的视频教程几乎都是系统默认推荐的第 1 名。总播放量也在 12 月份进了前 10。并在 2022 年 12 月下旬完成了 V0.0.1 版本内容，初步完成了这本书的架构。
+**里程碑回顾-2022.12.29**:编写了前三章的内容，并于2022年10月下旬录制了配套视频教程，并在Bilibili上分享。视频教程收到了赞扬和批评，但根据后台数据显示，在Solidity这个特定领域，这类资料仍然非常受欢迎。目前在Bilibili上搜索与Solidity相关的关键字，我分享的视频教程几乎都是系统默认推荐的第一名。总播放量也在12月份进入前十名。在2022年12月下旬，完成了V0.0.1版本内容，并初步完成了本书的架构。  
 
 ## 目录
 
@@ -299,31 +316,4 @@
 
 本来是做了 24 章的内容，但是为了以后方便印刷成纸质，所以删除了**真实案例分析**和**合约常见错误分析**这两个含有大量代码演示的章节。（比如案例分析里，光 uniswap V2/V3 和 Compound 这 3 个合约，每个印出来都是几十页的内容，太浪费篇幅了，以后单独放出来）
 
-## 本地运行文档
 
-克隆本仓库到你的电脑
-
-```
-git clone git@github.com:anbang/professional-solidity.git
-```
-
-**安装 Sphinx**：
-
-```
-yum -y install git make python3 python3-pip
-pip3 install sphinx
-pip3 install sphinx-autobuild
-pip3 install sphinx_rtd_theme
-pip3 install recommonmark
-pip3 install sphinx_markdown_tables
-```
-
-**本地运行**：根目录执行如下命令
-
-```
-# 第一种
-sphinx-autobuild docs build/html
-
-# 第二种
-./start.sh
-```
