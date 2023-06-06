@@ -51,7 +51,7 @@
 - 实体书籍：方便有读书习惯的人阅读。
 
 
-如果你喜欢这个项目，请给它点一个[![GitHub stars](https://img.shields.io/github/stars/anbang/professional-solidity.svg?style=social)](https://github.com/你的GitHub用户名/你的项目仓库名)（GitHub上的点赞按钮）。
+如果你喜欢这个项目，请给它点一个[![GitHub stars](https://img.shields.io/github/stars/anbang/professional-solidity.svg?style=social)](https://github.com/anbang/professional-solidity)（GitHub上的点赞按钮）。
 
 
 - **文字版在线阅读**:
