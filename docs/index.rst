@@ -27,14 +27,6 @@ solidity 类比介绍（比如 C++，Python，Java，Javascript
 
 朱安邦。
 
-社交媒体信息
-------------
-
-.. - 我的推特：\ `@anbang_account <https://twitter.com/anbang_account>`__ （❤️欢迎关注）
-.. - Discord 合约交流群：\ `Solidity智能合约交流 <https://discord.gg/AZmEtpmAjx>`__
-.. - Youtube: \ `Anbang 的 Youtube 频道 <https://www.youtube.com/c/anbang>`__
-.. - Bilibili: \ `Anbang 的 Bilibili 频道 <https://space.bilibili.com/59312814>`__
-
 .. toctree::
    :maxdepth: 2
    :caption: 第一部分：语言基础
