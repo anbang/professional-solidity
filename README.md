@@ -71,8 +71,7 @@
 ## 在线阅读
 
 - **文字版在线阅读**:
-  - <a target="_blank" rel="noopener noreferrer" href="https://www.axihe.com/solidity/professional-solidity.html">墙内版: 阿西河网站</a>
-  - <a target="_blank" rel="noopener noreferrer" href="https://professional-solidity.readthedocs.io/zh_CN/latest/">墙外版: Read The Docs</a>
+  - <a target="_blank" rel="noopener noreferrer" href="https://professional-solidity.readthedocs.io/zh_CN/latest/">Read The Docs</a>
 - **视频版**:
   - [在线视频观看: Youtube](https://www.youtube.com/watch?v=ao5nkAgx7kU&list=PLdXBX6Eqe4Net43OWIZychHW0n6CX_8Ih)
   - [在线视频观看: Bilibili](https://www.bilibili.com/video/BV1HR4y197Ag)
