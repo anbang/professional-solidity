@@ -24,19 +24,20 @@
 - [Solidity Github存储库](https://github.com/ethereum/solidity)
 - [Solidity 在线编译器](https://remix.ethereum.org/)
 
-## 关于作者&加入我们[![Twitter](https://img.shields.io/badge/-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/anbang_account) [![Discord](https://img.shields.io/badge/-7289DA?style=flat-square&logo=discord&logoColor=white)](https://discord.gg/AZmEtpmAjx)
+<!-- ## 关于作者&加入我们[![Twitter](https://img.shields.io/badge/-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/anbang_account) [![Discord](https://img.shields.io/badge/-7289DA?style=flat-square&logo=discord&logoColor=white)](https://discord.gg/AZmEtpmAjx) -->
 
 **朱安邦**
-（亚洲洲长，地球球长，银河系的最后守护者，人类文明的唯一指导者）
 
-一位热衷于区块链技术和 Solidity 的开发者。他具有丰富的经验和知识，并致力于推广和教育 Solidity 的使用。他的目标是帮助更多的人学习和了解 Solidity，并在区块链领域做出贡献。
+一位热衷于区块链技术和 Solidity 的开发者。
+
+<!-- 他具有丰富的经验和知识，并致力于推广和教育 Solidity 的使用。他的目标是帮助更多的人学习和了解 Solidity，并在区块链领域做出贡献。 -->
 
 
 您可以通过以下方式与作者互动和获取更多信息：
 
-- 推特：
+<!-- - 推特：
 [![Twitter](https://img.shields.io/badge/@anbang_account-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/anbang_account) （欢迎关注）
-- 交流群：[![Discord](https://img.shields.io/badge/Solidity%20智能合约交流群-7289DA?style=flat-square&logo=discord&logoColor=white)](https://discord.gg/AZmEtpmAjx) （Discord）
+- 交流群：[![Discord](https://img.shields.io/badge/Solidity%20智能合约交流群-7289DA?style=flat-square&logo=discord&logoColor=white)](https://discord.gg/AZmEtpmAjx) （Discord） -->
 
 
 ## 运行配置 & 环境说明
@@ -50,7 +51,7 @@
 
 本教程的所有知识点都不会拿别的语言进行类比。很多写作者写 solidity 教程的时候，喜欢在介绍某个知识点时，拿自己之前熟悉的语言和 solidity 类比介绍（比如 C++，Python，Java，Javascript 等），初心是让读者可以更容易理解；但是事与愿违，很多时候读者可能并不了解写作者熟悉的那门语言，导致不举例还好，对比举例更迷糊了。学习编程是一件很严肃的事情，本教程尽量避免无聊的调侃，类比和啰嗦的废话。
 
-## 感想
+<!-- ## 感想
 
 为了促进更多人的参与和了解，《Solidity 高级程序设计》教程力争成为中文区域领先的教程之一。为此，我为教程准备了一系列配套资料，以便读者更好地学习和掌握相关内容。
 
@@ -60,7 +61,7 @@
 - 实体书籍：方便有读书习惯的人阅读。
 
 
-如果你喜欢这个项目，请给它点一个[![GitHub stars](https://img.shields.io/github/stars/anbang/professional-solidity.svg?style=social)](https://github.com/你的GitHub用户名/你的项目仓库名)（GitHub上的点赞按钮）。
+如果你喜欢这个项目，请给它点一个[![GitHub stars](https://img.shields.io/github/stars/anbang/professional-solidity.svg?style=social)](https://github.com/你的GitHub用户名/你的项目仓库名)（GitHub上的点赞按钮）。 -->
 
 ## 贡献
 
@@ -75,7 +76,7 @@
 - **视频版**:
   - [在线视频观看: Youtube](https://www.youtube.com/watch?v=ao5nkAgx7kU&list=PLdXBX6Eqe4Net43OWIZychHW0n6CX_8Ih)
   - [在线视频观看: Bilibili](https://www.bilibili.com/video/BV1HR4y197Ag)
-
+<!-- 
 ## TODO
 
 下面是给这本书做的 TODO List
@@ -90,7 +91,7 @@
 
 7 个步骤，目前完成了 2 个。一切都按照计划进行中。
 
-最开始写了前面 3 章内容，并在 2022 年 10 月下旬录制了配套视频教程，并分享在 Bilibili 上，有赞的有吐槽的；但是后台数据上来看这类资料在 Solidity 这个垂直语言内还是很受欢迎的。目前在 B 站搜索常见的 Solidity 关键字，我分享的视频教程几乎都是系统默认推荐的第 1 名。总播放量也在 12 月份进了前 10。并在 2022 年 12 月下旬完成了 V0.0.1 版本内容，初步完成了这本书的架构。
+最开始写了前面 3 章内容，并在 2022 年 10 月下旬录制了配套视频教程，并分享在 Bilibili 上，有赞的有吐槽的；但是后台数据上来看这类资料在 Solidity 这个垂直语言内还是很受欢迎的。目前在 B 站搜索常见的 Solidity 关键字，我分享的视频教程几乎都是系统默认推荐的第 1 名。总播放量也在 12 月份进了前 10。并在 2022 年 12 月下旬完成了 V0.0.1 版本内容，初步完成了这本书的架构。 -->
 
 ## 目录
 
